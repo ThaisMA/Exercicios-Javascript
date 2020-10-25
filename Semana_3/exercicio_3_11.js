@@ -37,5 +37,5 @@ switch(operacao){
         div(Number(numero1),Number(numero2))
         break
     default:
-        console.log("teste")
+        console.log("Isso não é uma operação válida")
    }
